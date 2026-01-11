@@ -1,3 +1,4 @@
+![Open Source at Microsoft](https://github.com/socompser/.github/blob/main/bak.jpg) 
 
 
 A **Socompser** é uma empresa angolana especializada em soluções empresariais integradas (ERP), com foco na **Plataforma MASTER**.
